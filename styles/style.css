@@ -18,3 +18,8 @@ body {
 	color: black;
 	text-align: center;
 }
+.main-content{
+	margin: auto;
+text-align: center;
+width: 50%;
+}
